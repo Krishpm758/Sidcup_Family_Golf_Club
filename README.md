@@ -1,7 +1,7 @@
 # Sidcup Family Golf Club Website
 
 
-Welcome to the Sidcup Family Golf Club website! This website was created using HTML, CSS, JavaScript, and GSAP with Scroll Trigger. You can visit the live site at https://krishpm758.github.io/Sidcup_Family_Golf_Club/
+Welcome to the Sidcup Family Golf Club website! This website was created using HTML, CSS, JavaScript, and GSAP with Scroll Trigger. You can visit the live site at [here](https://krishpm758.github.io/Sidcup_Family_Golf_Club/)
 
 ## Introduction
 
